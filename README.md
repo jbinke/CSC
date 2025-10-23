@@ -2,6 +2,13 @@
 
 LOGO HERE
 
-Table of Contents
-- Project Summary
-- 
+~ ~ Welcome to my Github Page ~ ~
+
+Contact Me!
+jesseri0321@gmail.com
+behance.com/jbinke
+Code Pen: @Jessica-Binke
+
+Languages
+HTML, CSS, JavaScript
+
