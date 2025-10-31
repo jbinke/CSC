@@ -31,7 +31,13 @@ Adobe (Intermediate) <br>
 </ul>
 <br>
 
-<b>Favorite Projects</b>
+<b>Favorite Projects</b> <br>
+
+<b>Doctor Who Fan Website</b> <br>
+<p>This work functions as a dedicated fan wiki and media database, similar in utility to platforms like IMDb or TMDB. Its design philosophy and user experience are directly inspired by the distinctive, whimsical yet technical aesthetic of the Doctor Who franchise itself. </p> <br>
+
+<b>Tarot Database Website</b> <br>
+<p>insert synopsis</p>
 
 
 
