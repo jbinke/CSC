@@ -8,9 +8,10 @@ LOGO HERE
 My name is Jessica Binke and I am a senior at ASU pursuing my bachelor's in Graphic Information Technology with a concentration in Web Development. I have an associates in Design & Media Studies with a concentration in Graphic Design. I love brining projects to life, by utilizing both my love for graphic design and my technical skills in web development! <br>
 
 <b>Contact Me!</b> <br>
-jesseri0321@gmail.com <br>
-behance.com/jbinke https://www.behance.net/jessicabinke1 <br>
+Email: jesseri0321@gmail.com <br>
+Behance: behance.com/jbinke https://www.behance.net/jessicabinke1 <br>
 Code Pen: @Jessica-Binke  https://codepen.io/Jessica-Binke <br>
+LinkedIn: www.linkedin.com/in/jessica-binke-307447268 <br>
 
 <b>Languages</b> <br>
 HTML (Intermediate) <br>
